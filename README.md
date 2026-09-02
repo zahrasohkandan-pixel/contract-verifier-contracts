@@ -24,4 +24,4 @@ This repo is a part of the following:
    
    
 # License
-MIT
+MIT.
